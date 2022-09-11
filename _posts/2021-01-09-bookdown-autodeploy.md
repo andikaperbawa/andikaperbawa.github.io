@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automatically deploy a bookdown ebook with GitHub actions"
+title: "Post Template 1"
 date: 2021-01-09
 last-updated: 2021-01-10
 author: Alexander Lalejini
