@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide to adding citable supplemental material to any paper"
+title: "Post template 2"
 date: 2020-04-02
 ---
 
