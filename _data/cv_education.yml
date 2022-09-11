@@ -1,15 +1,22 @@
 # cv_education.yml describes my collegiate education/degrees for my CV
 
-- degree: <b>Dual Ph.D.</b>, Computer Science and Ecology, Evolutionary Biology, & Behavior
-  institution: Michigan State University
-  location: East Lansing, MI
+- degree: <b>Ph.D.</b>, Earth Science and Engineering
+  institution: King Abdullah University of Science and Technology
+  location: Thuwal, KSA
   dates: 2021
-  advisor: Charles Ofria
-  thesis: <a href="https://github.com/amlalejini/DISSERTATION---EVOLVING-PHENOTYPICALLY-PLASTIC-DIGITAL-ORGANISMS">Evolving phenotypically plastic digital organisms</a>
-  committee: Christoph Adami, Wolfgang Banzhaf, Richard Lenski, and Charles Ofria (chair)
+  advisor: J. Carlos Santamarina, Thomas Finkbeiner
+  thesis: <a href="https://repository.kaust.edu.sa/handle/10754/668812">Broadband Elastic Wave Propagation in Intact Rocks</a>
+ 
 
-- degree: <b>B.S.</b>, Computer Science
-  institution: Mississippi State University
-  location: Starkville, MS
-  dates: 2015
-  advisor: Cindy Bethel
+- degree: <b>MSc</b>, Geophysical Engineering
+  institution: Institute of Technology Bandung
+  location: Bandung, Indonesia
+  dates: 2011
+  advisor: Sony Winardie
+  
+  
+- degree: <b>BSc</b>, Geophysical Engineering
+  institution: Institute of Technology Bandung
+  location: Bandung, Indonesia
+  dates: 2009
+  advisor: Wawan Gunawan Abdul Kadir
