@@ -3,14 +3,12 @@ title: About
 layout: about
 
 about_me: |
-  I am an Assistant Professor in the School of Computing at Grand Valley State University.
-  My research intersects computer science and evolution, applying the principles of each field to advance the other.
-  Broadly, my work focuses on (1) developing digital systems to investigate fundamental questions about how evolution works, (2) harnessing our understanding of evolution to engineer new algorithms to solve challenging computational problems, and (3) facilitating knowledge transfer between the fields of evolutionary biology and evolutionary computing.
-  To learn more, check out my [publications](https://lalejini.com/publications) or feel free to reach out!
-  Code for all of my projects is open source and available on [GitHub (@amlalejini)](https://github.com/amlalejini), and the slides for many of my past talks can be found [here](https://lalejini.com/cv/).
+  I am a Postdoctoral fellow in the Ali i. Al-Naimi Petroleum Engineering Research Center at King Abdullah University of Science and Technology. Kingdom of Saudi Arabia.
+  My research intersects geophysics, rock physics, geomechanics, and machine learning on understanding rock and fluids in the subsurface. Current study focuses on carbon dioxide interaction with carbonate rocks and their implication to Carbon Capture Utilization and Storage (CCUS) and Enhanced Oil Recovery (EOR). My background as a professional exploration geophysicist in MedcoEnergi (Indonesia oil company) is mainly as seismic interpreter, reservoir characterizationa and geomodeller. My responsibility includes prospect generation, risk assessment, drilling program, post-drill analysis, and plan of development projects. 
+  To learn more, check out my [publications](https://andikaperbawa.github.io/publications) or feel free to reach out!
 
-about_me_img: "/imgs/me/2021-08-31-masked.jpg"
+about_me_img: "/imgs/me/headshot.png"
 about_me_img_caption: |
-  Mask up! (photo credit Dale Austin)
+  Welcome to my personal site
 
 ---
