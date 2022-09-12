@@ -3,7 +3,7 @@
   position: <b>Postdoctoral Research Fellow</b>
   department: Ali I Al-Naimi Petroleum Engineering Research Center
   dates: Feb 2022 - present
-  description: Conduct geomechanical and geophysical studies to characterize fluid-saturated carbonate rock (brine, oil and CO2) for Enhanced Oil Recovery and Carbon Capture Utilization and Storage. Utilize machine learning technique using conditional generative adversarial network (CGAN) to generate photorealistic outcrop model from ground penetrating radar and near surface seismic survey
+  description: Conduct geomechanical and geophysical studies to characterize fluid-saturated carbonate rock (brine, oil and CO2) for Enhanced Oil Recovery and Carbon Capture Utilization and Storage. Utilize machine learning technique using conditional generative adversarial network (CGAN) to generate photorealistic outcrop model from ground penetrating radar and near surface seismic survey.
 - institution: King Abdullah University of Science and Technology
   location: Thuwal, Kingdom of Saudi Arabia
   position: <b>Postgraduate Research Assistant</b>
@@ -27,7 +27,7 @@
   position: <b>Exploration Geophysicist</b>
   department: Exploration
   dates: Jun 2014 - May 2015
-  description: Assisted and supervised 3D seismic inversion study. Evaluated GGR study of A04 structure. Seismic interpretation and mapping in East, Central, and South 3D seismic volume for regional mapping. Supervised 3D seismic data reprocessing using beam migration. Prepared H2, P3, I2, K2 appraisal well proposals. Analyzed P2, O2, A2 post-drill wells
+  description: Assisted and supervised 3D seismic inversion study. Evaluated GGR study of A04 structure. Seismic interpretation and mapping in East, Central, and South 3D seismic volume for regional mapping. Supervised 3D seismic data reprocessing using beam migration. Prepared H2, P3, I2, K2 appraisal well proposals. Analyzed P2, O2, A2 post-drill wells.
 - institution: Medco Energi Indonesia (Medco E&P Indonesia)
   location: Jakarta, Indonesia
   position: <b>Exploration Geophysicist</b>
@@ -39,16 +39,22 @@
   position: <b>Non-seismic Geophysicist</b>
   department: Exploration Technology
   dates: May 2013 - Oct 2013
-  description: Managed and supervised IVEL resistivity survey in Iliran High for heavy oil identification, Rimau block, South Sumatra basin. Managed and supervised IVEL resistivity survey in Lagan Deep-1A well for shallow hazard identification, SCS block, South Sumatra basin. Managed and supervised passive seismic study for direct hydrocarbon detection in SCS block, South Sumatra basin
+  description: Managed and supervised IVEL resistivity survey in Iliran High for heavy oil identification, Rimau block, South Sumatra basin. Managed and supervised IVEL resistivity survey in Lagan Deep-1A well for shallow hazard identification, SCS block, South Sumatra basin. Managed and supervised passive seismic study for direct hydrocarbon detection in SCS block, South Sumatra basin.
 - institution: Medco Energi Indonesia (Medco E&P Bengara)
   location: Jakarta, Indonesia
   position: <b>Geophysicist of Project Execution</b>
   department: Exploration
   dates: Jan 2011 - Apr 2013
-  description: Involved in POD I of South Sebuku gas field (sandstone reservoir), Bengara I block. Contributed and supervised South Sebuku-2 appraisal well drilling. Assessed/evaluated prospects and leads in Bengara I block. Interpreter 2D seismic data in Bengara I block. Interpreted 3D seismic data in Camar field (Miocene carbonate reservoir), Bawean block. Conducted geophysical assessment and evaluation of shale gas potential in the south Sumatra basin
+  description: Involved in POD I of South Sebuku gas field (sandstone reservoir), Bengara I block. Contributed and supervised South Sebuku-2 appraisal well drilling. Assessed/evaluated prospects and leads in Bengara I block. Interpreter 2D seismic data in Bengara I block. Interpreted 3D seismic data in Camar field (Miocene carbonate reservoir), Bawean block. Conducted geophysical assessment and evaluation of shale gas potential in the south Sumatra basin.
 - institution: Medco Energi Indonesia (Medco E&P Indonesia)
   location: Jakarta, Indonesia
   position: <b>Graduate Geoscience Trainee</b>
   department: Exploration
   dates: Jan 2010 - Dec 2010
-  description: Six months of intensive (classroom) geoscience training and six months of on job training
+  description: Six months of intensive (classroom) geoscience training and six months of on job training.
+- institution: Elnusa
+  location: Jakarta, Indonesia
+  position: <b>Geophysics Intern</b>
+  department: Geoscience Data Processing
+  dates: Aug 2008
+  description: Performed seismic data processing using Pre-Stack Time Migration (PSTM) on onshore 2D land data, South Sumatra basin.
