@@ -49,6 +49,9 @@ layout: default
                 {{ exp.institution }} {% if exp.location %} - {{ exp.location }} {% endif %} 
                 <br/>
               {% endif %}
+              {% if exp.department %} {{ exp.department }} 
+                <br/>
+              {% endif %}
               {% if exp.dates %} <i>{{ exp.dates }}</i> 
                 <br/> 
               {% endif %}
