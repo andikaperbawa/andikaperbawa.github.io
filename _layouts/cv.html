@@ -42,15 +42,19 @@ layout: default
       <ul>
         {% for exp in site.data.cv_professional_appointments %}
           <li><p>
-              {% if exp.institution %}
-                {{ exp.institution }} {% if exp.location %} - {{ exp.location }} {% endif %} <br/>
-              {% endif %}
-              {% if exp.position %}
-                {{ exp.position }}{% if exp.advisors %}, advisor(s): {{ exp.advisors }} {% endif %}
+              {% if exp.position %} </b>{{ exp.position }} </b> 
                 <br/>
               {% endif %}
-              {% if exp.dates %} <i>{{ exp.dates }}</i> <br/> {% endif %}
-              {% if exp.description %} {{ exp.description }} <br/> {% endif %}
+              {% if exp.institution %}
+                {{ exp.institution }} {% if exp.location %} - {{ exp.location }} {% endif %} 
+                <br/>
+              {% endif %}
+              {% if exp.dates %} <i>{{ exp.dates }}</i> 
+                <br/> 
+              {% endif %}
+              {% if exp.description %} {{ exp.description }} 
+                <br/> 
+              {% endif %}
           </p></li>
         {% endfor %}
       </ul>
