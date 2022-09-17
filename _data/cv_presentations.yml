@@ -8,6 +8,15 @@
   date: April, 2021
   location: Virtual
   slides_link: https://app.box.com/s/ezlbbicgedzsv7htwvchjtsyescvqbmd
+  
+- type: talk
+  title: Application of Rock Physics in Oil and Gas
+  authors: Andika Perbawa
+  venue: University of Hassanudin 
+  year: 2022
+  date: March, 2022
+  location: Virtual
+  slides_link: https://app.box.com/s/arxe06j19ack7iic6yt1n2rn18hiou1c
 
 - type: poster
   title: Artificial selectio nmethods from evolutionary computing show promise for directed evolution of microbes
