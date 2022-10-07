@@ -124,8 +124,8 @@ layout: default
             <b>{{ workshop.workshop }}</b> <br/>
             <i>{{ workshop.for }}</i> <br/>
             {% if workshop.date %} Date(s): {{ workshop.date }} <br/> {% endif %}
-            {% if workshop.location %} Date(s): {{ workshop.location }} <br/> {% endif %}
-            {% if workshop.organizer %} Date(s): {{ workshop.organizer }} <br/> {% endif %}
+            {% if workshop.location %} Location: {{ workshop.location }} <br/> {% endif %}
+            {% if workshop.organizer %} Organizer: {{ workshop.organizer }} <br/> {% endif %}
             {% if workshop.description %} {{ workshop.description }} {% endif %}
           </p></li>
           {% endfor %}
