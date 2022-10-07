@@ -1,16 +1,18 @@
 # cv_teaching.yml lists my teaching experience for my CV
 
 - workshop: |
-    Organizer, Citable and web-enabled supplemental material
-  date: June 2021; August 2021
-  for: 2021 BEACON Congress, 2021 Computing Science Research Skills Workshops
-  description: |
-    <a href="https://bit.ly/beacon-citable-supp">Slides</a>.
+    Speaker, Seismic interpretation and Prospect Evaluation
+  date: Jan 2021; Mar 2022
+  for: 
+  organizer: SEG Student Chapter of King Abdullah University of Science and Technology
+  location: Thuwal, Saudi Arabia
+  description: | I taught Master and PhD students about practical seismic interpretation and subsurface modeling for prospect indentification and assessment. This workshop aims to prepare students to compete in 2022 Society of Exploration (SEG) Evolve Program and 2022 Imperial Barrel Award of American Assosciation of Petroleum Geologist
 
 - workshop: |
-    Co-organizer, <a href="https://lalejini.com/ALife-2021--ERA-workshop/">2021 Emerging Researchers in Artificial Life Workshop</a>
-  date: July 2021
-  for: 2020 Conference on Artificial Life (ALIFE)
+    Speaker, Seismic interpretation for structural and stratigraphy trap
+  date: 2016
+  organizer: SEG Student Chapter of University of Brawijaya
+  location: Malang, Indonesia
 
 - workshop: |
     Co-organizer, <a href="https://lalejini.com/ALife-2020--Emerging-Researchers-in-ALife-Workshop/">2020 Emerging Researchers in Artificial Life Workshop</a>
@@ -21,3 +23,18 @@
     Co-organizer, <a href="https://github.com/alife-data-standards/ALIFE2018-Standards-Workshop">Developing Software Standards for the Artificial Life Community</a>
   date: July, 2018; August, 2018
   for: 2018 Conference on Artificial Life (ALIFE); 2018 BEACON Congress
+  
+#- workshop: |
+#    Speaker, <a href="https://lalejini.com/ALife-2021--ERA-workshop/">2021 Emerging Researchers in Artificial Life Workshop</a>
+#  date: July 2021
+#  for: 2020 Conference on Artificial Life (ALIFE)
+
+#- workshop: |
+#    Co-organizer, <a href="https://lalejini.com/ALife-2020--Emerging-Researchers-in-ALife-Workshop/">2020 Emerging Researchers in Artificial Life Workshop</a>
+#  date: July 2020
+#  for: 2020 Conference on Artificial Life (ALIFE)
+
+#- workshop: |
+#    Co-organizer, <a href="https://github.com/alife-data-standards/ALIFE2018-Standards-Workshop">Developing Software Standards for the Artificial Life Community</a>
+#  date: July, 2018; August, 2018
+#  for: 2018 Conference on Artificial Life (ALIFE); 2018 BEACON Congress
