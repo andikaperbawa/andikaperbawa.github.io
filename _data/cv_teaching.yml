@@ -1,25 +1,25 @@
 # cv_teaching.yml lists my teaching experience for my CV
 
 - exp: |
-    Co-instructor, Algorithms Engineering
-  date: Fall 2019
-  for: Michigan State University, Computer Science and Engineering Department, East Lansing, MI
+    Teaching Assistant: Seismic Interpretation using Petrel
+  date: 2019
+  for: King Abdullah University of Science and Technology, Energy Reseources and Petroleum Engineering, Thuwal, KSA
 
 - exp: |
-    Co-instructor for the 'Making a Game of It' summer camp for high school students
-  date: Summer 2019
-  for: Michigan State University, College of Engineering Summer Programs, East Lansing, MI
-  description: |
-    [Summer camp materials (lesson plans, examples, resources).](https://lalejini.com/2019-msu-pygame/).
+    Teaching Assistantr: Seismic Refraction Modeling
+  date: 2009
+  for: Institute of Technology Bandung, Geophysical Engineering Department, Bandung, Indonesia
+#  description: |
+#   [Summer camp materials (lesson plans, examples, resources).](https://lalejini.com/2019-msu-pygame/).
 
 - exp: |
-    Invited guest lecturer, Evolutionary Computation
-  date: Fall 2018, Fall 2019
-  for: Michigan State University, Computer Science and Engineering Department, East Lansing, MI
-  description: |
-    Topic: Digital evolution
+    Teaching Assistant: Computational Geophysics
+  date: 20089
+  for: Institute of Technology Bandung, Geophysical Engineering Department, Bandung, Indonesia
+# description: |
+# Topic: Digital evolution
 
 - exp: |
-    Teaching Assistant, Algorithms Engineering
-  date: Spring 2017
-  for: Michigan State University, Computer Science and Engineering Department, East Lansing, MI
+     Teaching Assistant: Computational Geophysics
+  date: 2008
+  for: Institute of Technology Bandung, Geophysical Engineering Department, Bandung, Indonesia
