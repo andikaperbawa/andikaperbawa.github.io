@@ -9,13 +9,13 @@
   type: fellowship
   description: |
     Awarded by KAUST for the Ph.D. Fellowship of USD 25,000 per year (all-in)
-  year: 2016 - 2021
+  year: 20162021
 
 - award: The 1st winner of MedcoEnergi futsal home tournament
   type: award
   description: |
     Awarded by MedcoEnergi during futsal tournament three years in a row from 2010 to 2012
-  year: 2010 - 2012
+  year: 20102012
 
 - award: The 1st winner of National Geophysics Paper Contest
   type: award
@@ -27,16 +27,16 @@
   type: award
   description: |
     Awarded by the faculty of mining and petroleum engineering at ITB
-  year: 2007-2009
+  year: 20072009
   
 - award: Institute of technology Bandung Fellowship
   type: fellowship
   description: |
     Awarded by ITB scholarship department
-  year: 2006-2009
+  year: 20062009
   
 - award: the 3rd winner National Petroleum Student Competition
   type: award
   description: |
     Awarded by petroleum Engineering Student Association of ITB for competing in the national challenge bowl
-  year: 2006-2009
+  year: 20062009
