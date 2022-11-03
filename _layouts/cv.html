@@ -191,21 +191,21 @@ layout: default
     </div>
   </div>
 
-  <!-- Category - outreach -->
-  <div class="row" id="cv-outreach">
-    <div class="col">
-      <h3>{{ site.data.icons.cv_outreach_icon }} Outreach</h3>
-      {% assign outreach_sorted = site.data.cv_outreach | sort: 'year' | reverse %}
-      <ul>
-          {% for outreach in outreach_sorted %}
-            <li><p>
-                <b> {{ outreach.outreach }}</b> <br/>
-                {% if outreach.date %} <i>{{ outreach.date }}</i> <br/> {% endif %}
-                {% if outreach.description %} {{ outreach.description }} {% endif %}
-            </p></li>
-          {% endfor %}
-        </ul>
-    </div>
-  </div>
-
-</div>
+#  <!-- Category - outreach -->
+#  <div class="row" id="cv-outreach">
+#    <div class="col">
+#      <h3>{{ site.data.icons.cv_outreach_icon }} Outreach</h3>
+#      {% assign outreach_sorted = site.data.cv_outreach | sort: 'year' | reverse %}
+#      <ul>
+#          {% for outreach in outreach_sorted %}
+#            <li><p>
+#                <b> {{ outreach.outreach }}</b> <br/>
+#                {% if outreach.date %} <i>{{ outreach.date }}</i> <br/> {% endif %}
+#                {% if outreach.description %} {{ outreach.description }} {% endif %}
+#            </p></li>
+#          {% endfor %}
+#        </ul>
+#    </div>
+#  </div>
+#
+#</div>
