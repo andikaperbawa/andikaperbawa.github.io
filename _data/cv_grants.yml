@@ -1,24 +1,42 @@
 
-- award: BEACON Science and Technology Center Research Grant
-  type: grant
-  year: 2016
+- award: SEG Evolve Recognition Awards 
+  type: award
+  year: 2020
   description: |
-    Proposal: Does phenotypic plasticity promote evolvability? <br/> Amount awarded: $59,525
+    Awarded by the SEG in three categories: The best prospect, the map and the best team work
 
-- award: University Distinguished Fellowship
-  type: fellowship
-  # description: |
-  #   Awarded by Michigan State University to 20 out of approximately 500 incoming Ph.D. students.
-  year: 2015
-
-- award: BEACON Top-up Fellowship
-  type: fellowship
-  # description: |
-  #   Awarded by BEACON Center for Evolution in Action to incoming graduate students.
-  year: 2015
-
-- award: National Science Foundation (NSF) Graduate Research Fellowship
+- award: King Abdullah University of Science and Technology Scholarshipp
   type: fellowship
   description: |
-    Proposal: Biologically-inspired distributed control algorithms
-  year: 2017
+    Awarded by KAUST for the Ph.D. Fellowship of USD 25,000 per year (all-in)
+  year: 2016 - 2021
+
+- award: The 1st winner of MedcoEnergi futsal home tournament
+  type: award
+  description: |
+    Awarded by MedcoEnergi during futsal tournament three years in a row from 2010 to 2012
+  year: 2010 - 2012
+
+- award: The 1st winner of National Geophysics Paper Contest
+  type: award
+  description: |
+    Awarded by Geophysical Engineering Student Association of ITB for competing in the national geophysical student paper contest
+  year: 2009
+  
+- award: Awards of Outstanding Achievement by Mining and Petroleum Engineering Faculty
+  type: award
+  description: |
+    Awarded by the faculty of mining and petroleum engineering at ITB
+  year: 2007-2009
+  
+- award: Institute of technology Bandung Fellowship
+  type: fellowship
+  description: |
+    Awarded by ITB scholarship department
+  year: 2006-2009
+  
+- award: the 3rd winner National Petroleum Student Competition
+  type: award
+  description: |
+    Awarded by petroleum Engineering Student Association of ITB for competing in the national challenge bowl
+  year: 2006-2009
