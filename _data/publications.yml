@@ -8,9 +8,10 @@ publication_types:
     pretty: Peer-reviewed papers
   - type_id: peer-reviewed-abstract
     pretty: Peer-reviewed abstracts
-    overview: |
-      These are short (usually 2-page) summaries of research recently published or
-      to be published elsewhere.
+  - type_id: conference-paper
+    pretty: Conference-paper
+  - type_id: conference-poster
+    pretty: Conference-poster
   - type_id: book-chapter
     pretty: Book chapters
   - type_id: misc
@@ -73,7 +74,7 @@ publications:
       <https://doi.org/10.1190/image2022-3745682.1>
     year: 2022
     venue: conference
-    type: peer-reviewed-abstract
+    type: conference-paper
 #    pdf: pubs/tle41090599.1.pdf
     badges:
       - article summary
