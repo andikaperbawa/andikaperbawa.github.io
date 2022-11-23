@@ -38,8 +38,8 @@ publications:
 
   - citation: |
       Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and VOlker Vahrenkamp. 2022.
-      Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies
-      The Leading Edge 41:599–610
+      Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies.
+      The Leading Edge 41:599–610.
       <https://doi.org/10.1190/tle41090599.1>
     year: 2022
     venue: journal
@@ -170,7 +170,7 @@ publications:
 #        and Dolson, Emily",
 #        editor="Banzhaf, Wolfgang
 #        and Trujillo, Leonardo
-3        and Winkler, Stephan
+#        and Winkler, Stephan
 #        and Worzel, Bill",
 #        title="What Can Phylogenetic Metrics Tell us About Useful Diversity in Evolutionary Algorithms?",
 #        bookTitle="Genetic Programming Theory and Practice XVIII",
