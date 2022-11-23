@@ -9,9 +9,9 @@ publication_types:
   - type_id: peer-reviewed-abstract
     pretty: Peer-reviewed abstracts
   - type_id: conference-paper
-    pretty: Conference-paper
+    pretty: Conference-papers
   - type_id: conference-poster
-    pretty: Conference-poster
+    pretty: Conference-posters
   - type_id: book-chapter
     pretty: Book chapters
   - type_id: misc
@@ -80,8 +80,8 @@ publications:
       - article summary
     bibtex: |
       ```
-      @inproceedings {10.1190/tle41090599.1,
-        article_type = {journal},
+      @inproceedings {10.1190/image2022-3745682.1,
+        article_type = {conference},
         title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
         author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
         year = 2022,
@@ -89,7 +89,28 @@ publications:
         publisher = {Society of Exploration Geophysicist},
       }
       ```
-      
+   
+  - citation: |
+      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and Volker Vahrenkamp. 2022.
+      Outcrop “Behind-the-Outcrop” Reveals 3D Morphology of the Late Jurassic Stromatoporoid/Coral Facies of the Hanifa Reservoir
+      American Association of Petroleum Geologist Conference
+    year: 2022
+    venue: conference
+    type: conference-poster
+#    pdf: pubs/tle41090599.1.pdf
+    badges:
+      - article summary
+    bibtex: |
+      ```
+      @inproceedings {10.1190/image2022-3745682.1,
+        article_type = {conference},
+        title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
+        author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
+        year = 2022,
+#        url = {https://doi.org/10.1190/image2022-3745682.1},
+        publisher = {American Association of Petroleum Geologist},
+      }
+      ```
 #  - citation: |
 #      Jose Guadalupe Hernandez, Alexander Lalejini, and Emily Dolson. 2022.
 #      Phylogenetic diversity predicts future success in evolutionary computation.
