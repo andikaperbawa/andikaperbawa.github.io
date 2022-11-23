@@ -44,14 +44,14 @@ publications:
     year: 2022
     venue: journal
     type: peer-reviewed-paper
-#    pdf: /pubs/2022-07-tag-based-regulation-ext-abstract.pdf
+    pdf: pubs/tle41090599.1.pdf
     badges:
       - article summary
     bibtex: |
       ```
       @article {10.1190/tle41090599.1,
         article_type = {journal},
-        title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
+        title = {A creative machine learning application for ground penetrating radar data visualization as an artificial photorealistic rock volume},
         author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
         volume = 41,
         year = 2022,
@@ -66,6 +66,29 @@ publications:
       }
       ```
 
+  - citation: |
+      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and VOlker Vahrenkamp. 2022.
+      “Behind-the-outcrop” outcrop: A creative machine learning application for ground penetrating radar data visualization as an artificial photorealistic rock volume
+      Second International Meeting for Applied Geoscience & Energy (IMAGE)
+      <https://doi.org/10.1190/image2022-3745682.1>
+    year: 2022
+    venue: conference
+    type: peer-reviewed-paper
+#    pdf: pubs/tle41090599.1.pdf
+    badges:
+      - article summary
+    bibtex: |
+      ```
+      @inproceedings {10.1190/tle41090599.1,
+        article_type = {journal},
+        title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
+        author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
+        year = 2022,
+        url = {https://doi.org/10.1190/image2022-3745682.1},
+        publisher = {Society of Exploration Geophysicist},
+      }
+      ```
+      
 #  - citation: |
 #      Jose Guadalupe Hernandez, Alexander Lalejini, and Emily Dolson. 2022.
 #      Phylogenetic diversity predicts future success in evolutionary computation.
