@@ -37,7 +37,7 @@ publication_types:
 publications:
 
   - citation: |
-      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and VOlker Vahrenkamp. 2022.
+      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and Volker Vahrenkamp. 2022.
       Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies.
       The Leading Edge 41:599–610.
       <https://doi.org/10.1190/tle41090599.1>
@@ -67,13 +67,13 @@ publications:
       ```
 
   - citation: |
-      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and VOlker Vahrenkamp. 2022.
+      Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and Volker Vahrenkamp. 2022.
       “Behind-the-outcrop” outcrop: A creative machine learning application for ground penetrating radar data visualization as an artificial photorealistic rock volume
       Second International Meeting for Applied Geoscience & Energy (IMAGE)
       <https://doi.org/10.1190/image2022-3745682.1>
     year: 2022
     venue: conference
-    type: peer-reviewed-paper
+    type: peer-reviewed-abstract
 #    pdf: pubs/tle41090599.1.pdf
     badges:
       - article summary
