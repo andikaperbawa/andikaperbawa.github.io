@@ -37,15 +37,15 @@ publication_types:
 publications:
 
   - citation: |
-      Alexander Lalejini, Matthew Andres Moreno, and Charles Ofria. 2022.
+      Ahmad Ramdani Perbawa, Thomas Finkbeiner, and Carlos Santamarina. 2023.
       Tag-based module regulation for genetic programming.
       In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '22).
       Association for Computing Machinery, New York, NY, USA, 25–26.
       <https://doi.org/10.1145/3520304.3534060>
-    year: 2022
-    venue: conference
+    year: 2023
+    venue: journal
     type: peer-reviewed-abstract
-    pdf: /pubs/2022-07-tag-based-regulation-ext-abstract.pdf
+#    pdf: /pubs/2022-07-tag-based-regulation-ext-abstract.pdf
     badges:
       - article summary
     bibtex: |
