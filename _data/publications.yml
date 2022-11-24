@@ -68,6 +68,26 @@ publications:
       ```
 
   - citation: |
+      Andika Perbawa, Thomas Finkbeiner, and Juan Carlos Santamarina. 2021.
+      Coda Wave Analysis for Small Time Shifts in Ultrasonic Signatures During Triaxial Testing.
+      ARMA/DGS/SEG: 2nd International Geomechanics Symposium.
+    year: 2022
+    venue: conference
+    type: conference-abstract
+    badges:
+      - article summary
+    bibtex: |
+      ```
+      @article {10.1190/tle41090599.1,
+        article_type = {journal},
+        title = {Coda Wave Analysis for Small Time Shifts in Ultrasonic Signatures During Triaxial Testing},
+        author = {Perbawa, Andika and Finkbeiner, Thomas and Santamarina, Carlos},
+        pub_date = {2021-10-31},
+        publisher = {American Rock Mechanics Association},
+      }
+      ```
+
+  - citation: |
       Ahmad Ramdani, Andika Perbawa, Ingrid Puspita, and Volker Vahrenkamp. 2022.
       “Behind-the-outcrop” outcrop: A creative machine learning application for ground penetrating radar data visualization as an artificial photorealistic rock volume
       Second International Meeting for Applied Geoscience & Energy (IMAGE), Houston, USA.
