@@ -81,7 +81,7 @@ publications:
     bibtex: |
       ```
       @inproceedings {10.1190/image2022-3745682.1,
-        article_type = {journal},
+        article_type = {conference},
         title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
         author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
         year = 2022,
@@ -103,7 +103,7 @@ publications:
     bibtex: |
       ```
       @inproceedings {10.1190/image2022-3745682.1,
-        article_type = {journal},
+        article_type = {conference},
         title = {Acoustic impedance to outcrop: Presenting near-surface seismic data as a virtual outcrop in carbonate analog studies},
         author = {Ramdani, Ahmad and Perbawa, Andika and Puspita, Ingrid and Vahrenkamps, Volker},
         year = 2022,
@@ -127,7 +127,8 @@ publications:
         article_type = {conference},
         title = {Coda Wave Analysis for Small Time Shifts in Ultrasonic Signatures During Triaxial Testing},
         author = {Perbawa, Andika and Finkbeiner, Thomas and Santamarina, Carlos},
-        pub_date = {2021-10-31},
+        year = 2021,
+        url = {https://doi.org/10.1190/image2022-3745682.1},
         publisher = {American Rock Mechanics Association},
       }
       ```
