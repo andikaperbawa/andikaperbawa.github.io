@@ -118,7 +118,8 @@ publications:
       ARMA/DGS/SEG: 2nd International Geomechanics Symposium.
     year: 2021
     venue: conference
-    type: conference-abstract
+    type: conference-papers
+ #    pdf: pubs/tle41090599.1.pdf
     badges:
       - article summary
     bibtex: |
