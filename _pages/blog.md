@@ -5,20 +5,21 @@ permalink: /blog/
 ---
 
 This Page is under development
+
 ## <a href="#here"><i class='far fa-link' style='color:slategrey;'></i></a> here
-#<ul class="posts">
-#  {% for post in site.posts %}
-#    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-#  {% endfor %}
-#</ul>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ## <a href="#devolab"><i class='far fa-link' style='color:slategrey;'></i></a> [devolab](https://devolab.org/)
-#<ul class="posts">
-#  {% for post in site.data.devolab_posts %}
-3    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-#  {% endfor %}
-#  <a href="https://devolab.org/author/lalejini/">[all devolab posts]</a>
-#</ul>
+<ul class="posts">
+  {% for post in site.data.devolab_posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  <a href="https://devolab.org/author/lalejini/">[all devolab posts]</a>
+</ul>
 
 <!-- ## <a href="#mentees_collaborators">🔗</a> mentees & collaborators
 <ul class="posts">
