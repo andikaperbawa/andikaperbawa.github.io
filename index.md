@@ -9,7 +9,7 @@ about_me: |
   
   My background as a professional exploration geophysicist in MedcoEnergi is mainly as a seismic interpreter, reservoir characterizationa and geomodeller. My responsibility includes prospect maturation and evaluation, exploration risk assessment, preparing geophysical evaluation for drilling program, post-drill analysis, and resouce calculation. 
   
-  To learn more, check out my [cv](https://andikaperbawa.github.io/cv) and [publications](https://andikaperbawa.github.io/publications) or feel free to reach out!
+  To learn more, check out my [cv - click here](https://andikaperbawa.github.io/cv) and [publications - click here](https://andikaperbawa.github.io/publications) or feel free to reach out!
 
 about_me_img: "/imgs/me/headshot.png"
 about_me_img_caption: |
